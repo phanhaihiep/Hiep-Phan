@@ -1,2 +1,2 @@
-# This is where I created my first blog
-## 
+You can find me at : phanhaihiep.github.io
+Thanks
